@@ -1730,7 +1730,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   -webkit-perspective: 1000px;
 }
 .loader > span {
-  font-size: 80px;
+  font-size: 10vw;
   font-weight: bold;
   display: inline-block;
   color: #fff;
